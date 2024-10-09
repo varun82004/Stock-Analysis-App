@@ -53,19 +53,26 @@ To run this application, you'll need to have Python installed. Follow these step
 Input Parameters:
 
 ->Enter the stock ticker symbol (e.g., AAPL for Apple Inc.).
+
 ->Select the start and end dates for the analysis.
+
 ->Specify the window for SMA and EMA calculations.
+
 ->Analyze: Click the "Analyze" button to fetch the data and visualize the stock trends along with the technical indicators.
 
 ### Technical Indicators Used
 -> Moving Average (SMA and EMA)
    Simple Moving Average (SMA) and Exponential Moving Average (EMA) are calculated to help identify trends.
+
 -> Relative Strength Index (RSI)
    RSI is calculated to indicate overbought or oversold conditions.
+
 -> Moving Average Convergence Divergence (MACD)
    MACD is plotted along with its signal line for trend analysis.
+
 -> Bollinger Bands
    Bollinger Bands help visualize price volatility.
+
 -> Average True Range (ATR)
    ATR is used to measure market volatility.
 
