@@ -1,4 +1,4 @@
-Stock Analysis Tool
+###Stock Analysis Tool
 Overview
 The Stock Analysis Tool is a web application built using Streamlit, allowing users to analyze stock trends and indicators. The application fetches historical stock data from Yahoo Finance and calculates various technical indicators such as Moving Averages (SMA, EMA), Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), Bollinger Bands, and Average True Range (ATR). Users can visualize these indicators interactively using Plotly.
 
