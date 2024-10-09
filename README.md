@@ -19,8 +19,11 @@ The Stock Analysis Tool is a web application built using Streamlit, allowing use
 
 ### Features:
 ->Download Stock Data: Fetches historical stock data using the ticker symbol.
+
 ->Technical Indicators: Calculates and visualizes SMA, EMA, RSI, MACD, Bollinger Bands, and ATR.
+
 ->Interactive Plots: Utilizes Plotly for zoomable and hoverable charts for in-depth analysis.
+
 ->User-Friendly Interface: Streamlit provides an intuitive interface for inputting stock ticker symbols and date ranges.
 
 ### 🚀 Installation
