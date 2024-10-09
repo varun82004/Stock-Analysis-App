@@ -6,10 +6,15 @@ The Stock Analysis Tool is a web application built using Streamlit, allowing use
 🛠 Requirements
 1) Python 3.x
 2) Required libraries (install via requirements.txt):
+
    -> pandas
+
    ->numpy
+
    ->yfinance
+
    ->plotly
+
    ->streamlit
 
 ### Features:
