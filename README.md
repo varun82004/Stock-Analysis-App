@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/stock-analysis-tool.git
+git clone https://github.com/varun82004/stock-analysis-tool.git
 cd stock-analysis-tool
 Create a virtual environment (optional but recommended):
 
@@ -60,4 +60,4 @@ Contributing
 Contributions are welcome! Please feel free to submit a pull request or report issues.
 
 Contact
-For any questions or suggestions, please contact Your Name.
+For any questions or suggestions, please contact varunsadhithya@gmail.com.
