@@ -76,10 +76,10 @@ Input Parameters:
 -> Average True Range (ATR)
    ATR is used to measure market volatility.
 
-📄 License
+### 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-🤝 Contributing
+### 🤝 Contributing
 We welcome contributions to enhance the Stock Analysis Tool. To contribute:
 1) Fork this repository.
 2) Create a new branch (git checkout -b feature/your-feature).
