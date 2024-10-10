@@ -30,6 +30,7 @@ The Stock Analysis Tool is a web application built using Streamlit, allowing use
 To run this application, you'll need to have Python installed. Follow these steps to set up your environment:
 
 1) Clone the repository:
+
    git clone https://github.com/varun82004/stock-analysis-tool.git
    cd stock-analysis-tool
 
