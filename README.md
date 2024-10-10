@@ -77,9 +77,11 @@ Input Parameters:
    ATR is used to measure market volatility.
 
 ### 📄 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### 🤝 Contributing
+
 We welcome contributions to enhance the Stock Analysis Tool. To contribute:
 1) Fork this repository.
 2) Create a new branch (git checkout -b feature/your-feature).
@@ -87,5 +89,6 @@ We welcome contributions to enhance the Stock Analysis Tool. To contribute:
 4) Push to the branch (git push origin feature/your-feature).
 5) Open a pull request.
 
-👤 Contact
+### 👤 Contact
+
 For any questions or suggestions, please contact varunsadhithya@gmail.com.
